@@ -1,13 +1,42 @@
 [
   {
-    "PRODUCTNAME": "740",
+    "PRODUCTNAME": "MacBook Pro 13-inch",
     "GRAPHICNAME": "41",
-    "COSTPRICE": "125",
+    "COSTPRICE": 1729.00,
     "MSRP": "1480",
-    "QtyOnHand": "51",
-    "QtyOnBackOrder": "4",
-    "Description": "Bacon Clubhouse Burger 9.7 oz (274 g)",
+    "QtyOnHand": "50",
+    "QtyOnBackOrder": "10",
+    "Description": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 128 GB Storage)",
     "BRAND": "APPLE"
-
+  },
+  {
+    "PRODUCTNAME": "MacBook Pro 15-inch",
+    "GRAPHICNAME": "41",
+    "COSTPRICE": 3199.00,
+    "MSRP": "1480",
+    "QtyOnHand": "45",
+    "QtyOnBackOrder": "7",
+    "Description": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
+    "BRAND": "APPLE"
+  },
+  {
+    "PRODUCTNAME": "MacBook Air 13-inch",
+    "GRAPHICNAME": "41",
+    "COSTPRICE": 1499.00,
+    "MSRP": "1480",
+    "QtyOnHand": "45",
+    "QtyOnBackOrder": "7",
+    "Description": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
+    "BRAND": "APPLE"
+  },
+  {
+    "PRODUCTNAME": "iMac 21.5-inch",
+    "GRAPHICNAME": "41",
+    "COSTPRICE": 1399.00,
+    "MSRP": "1480",
+    "QtyOnHand": "38",
+    "QtyOnBackOrder": "2",
+    "Description": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 1TB Storage",
+    "BRAND": "APPLE"
   }
 ]
