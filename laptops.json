@@ -42,5 +42,82 @@
     "QtyOnBackOrder": "2",
     "DESCRIPTION": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 1TB Storage",
     "BRAND": "APPLE"
+  },
+  {    
+    "Id": "0005",
+    "PRODUCTNAME": "iMac 27-inch",
+    "GRAPHICNAME": "imac27.jpg",
+    "COSTPRICE": "2399.00",
+    "MSRP": "1480",
+    "QtyOnHand": "18",
+    "QtyOnBackOrder": "0",
+    "DESCRIPTION": "Retina 5K Display 3.0GHz 6-Core Processor with Turbo Boost up to 4.1GHz 1TB Storage",
+    "BRAND": "APPLE"
+  },
+  {    
+    "Id": "0006",
+    "PRODUCTNAME": "ASUS ZenBook 14-inch",
+    "GRAPHICNAME": "asusZen14.jpg",
+    "COSTPRICE": "999.00",
+    "MSRP": "1480",
+    "QtyOnHand": "22",
+    "QtyOnBackOrder": "5",
+    "DESCRIPTION": "1.6GHz Intel Core i5-8250U processer and 8GB of DDR3 RAM deliver solid and reliable performance for effortless everyday computing and more",
+    "BRAND": "ASUS"
+  },
+  {    
+    "Id": "0007",
+    "PRODUCTNAME": "ASUS VivoBook 15.6-inch",
+    "GRAPHICNAME": "asusVivo.jpg",
+    "COSTPRICE": "650.00",
+    "MSRP": "1480",
+    "QtyOnHand": "12",
+    "QtyOnBackOrder": "1",
+    "DESCRIPTION": "2.5GHz (up to 3.4GHz) AMD R3-3200U dual-core processor and 8GB DDR4 RAM delivers the power you demand for all your computing needs",
+    "BRAND": "ASUS"
+  },
+  {    
+    "Id": "0008",
+    "PRODUCTNAME": "ASUS Chromebook Flip 14-inch",
+    "GRAPHICNAME": "asusChrome.jpg",
+    "COSTPRICE": "699.00",
+    "MSRP": "1480",
+    "QtyOnHand": "50",
+    "QtyOnBackOrder": "2",
+    "DESCRIPTION": "1.1GHz 2-core Intel Cm3-8100Y processor and 4GB of RAM provides the power you need to comfortably tackle everyday computing tasks",
+    "BRAND": "ASUS"
+  },
+  {    
+    "Id": "0009",
+    "PRODUCTNAME": "ASUS TUF 15.6-inch",
+    "GRAPHICNAME": "asusTUF.jpg",
+    "COSTPRICE": "899.00",
+    "MSRP": "1480",
+    "QtyOnHand": "38",
+    "QtyOnBackOrder": "5",
+    "DESCRIPTION": "2.1GHz AMD Ryzen 5 3550H quad-core processor with 8GB of DDR4 RAM delivers a powerful performance with efficient speed you can depend on",
+    "BRAND": "ASUS"
+  },
+  {    
+    "Id": "0010",
+    "PRODUCTNAME": "HP 15.6-inch Touchscreen",
+    "GRAPHICNAME": "hp15.jpg",
+    "COSTPRICE": "799.00",
+    "MSRP": "1480",
+    "QtyOnHand": "40",
+    "QtyOnBackOrder": "2",
+    "DESCRIPTION": "1.6 GHz 8th generation Intel i5-8265U quad-core processor and 8GB RAM deliver solid and reliable performance for effortless everyday computing and more",
+    "BRAND": "HP"
+  },
+  {    
+    "Id": "0011",
+    "PRODUCTNAME": "HP 17.3-inch",
+    "GRAPHICNAME": "hp17.jpg",
+    "COSTPRICE": "900.00",
+    "MSRP": "1480",
+    "QtyOnHand": "25",
+    "QtyOnBackOrder": "1",
+    "DESCRIPTION": "Featuring a 1.6GHz quad-core Intel processor, 12GB of RAM, and a 1TB hard drive, this 17.3-inch laptop has the power you need to get your everyday computing tasks done",
+    "BRAND": "HP"
   }
 ]
