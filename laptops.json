@@ -1,12 +1,12 @@
 [
   {
     "PRODUCTNAME": "MacBook Pro 13-inch",
-    "GRAPHICNAME": "41",
+    "GRAPHICNAME": "macpro13.jpg",
     "COSTPRICE": 1729.00,
     "MSRP": "1480",
     "QtyOnHand": "50",
     "QtyOnBackOrder": "10",
-    "Description": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 128 GB Storage)",
+    "DESCRIPTION": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 128 GB Storage)",
     "BRAND": "APPLE"
   },
   {
@@ -16,7 +16,7 @@
     "MSRP": "1480",
     "QtyOnHand": "45",
     "QtyOnBackOrder": "7",
-    "Description": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
+    "DESCRIPTION": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
     "BRAND": "APPLE"
   },
   {
@@ -26,7 +26,7 @@
     "MSRP": "1480",
     "QtyOnHand": "45",
     "QtyOnBackOrder": "7",
-    "Description": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
+    "DESCRIPTION": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
     "BRAND": "APPLE"
   },
   {
