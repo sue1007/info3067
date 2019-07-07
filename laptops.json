@@ -13,7 +13,7 @@
   {
     "Id": "0002",
     "PRODUCTNAME": "MacBook Pro 15-inch",
-    "GRAPHICNAME": "41",
+    "GRAPHICNAME": "macpro15.jpg",
     "COSTPRICE": "3199.00",
     "MSRP": "1480",
     "QtyOnHand": "45",
@@ -24,7 +24,7 @@
   {    
     "Id": "0003",
     "PRODUCTNAME": "MacBook Air 13-inch",
-    "GRAPHICNAME": "41",
+    "GRAPHICNAME": "macair13.jpg",
     "COSTPRICE": "1499.00",
     "MSRP": "1480",
     "QtyOnHand": "45",
@@ -35,7 +35,7 @@
   {    
     "Id": "0004",
     "PRODUCTNAME": "iMac 21.5-inch",
-    "GRAPHICNAME": "41",
+    "GRAPHICNAME": "imac21.jpg",
     "COSTPRICE": "1399.00",
     "MSRP": "1480",
     "QtyOnHand": "38",
