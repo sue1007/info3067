@@ -100,6 +100,17 @@
   },
   {    
     "Id": "0010",
+    "PRODUCTNAME": "ASUS C202SA 11.6-inch",
+    "GRAPHICNAME": "asusChrome.jpg",
+    "COSTPRICE": "260.00",
+    "MSRP": "1480",
+    "QtyOnHand": "55",
+    "QtyOnBackOrder": "7",
+    "DESCRIPTION": "A durable and rugged choice for students, the ASUS C202SA 11.6-inch Chromebook delivers a quick and reliable performance powered by an Intel Celeron N3060 processor with 2GB of RAM",
+    "BRAND": "ASUS"
+  },
+  {    
+    "Id": "0011",
     "PRODUCTNAME": "HP 15.6-inch Touchscreen",
     "GRAPHICNAME": "hp15.jpg",
     "COSTPRICE": "799.00",
@@ -110,7 +121,7 @@
     "BRAND": "HP"
   },
   {    
-    "Id": "0011",
+    "Id": "0012",
     "PRODUCTNAME": "HP 17.3-inch",
     "GRAPHICNAME": "hp17.jpg",
     "COSTPRICE": "900.00",
@@ -119,5 +130,39 @@
     "QtyOnBackOrder": "1",
     "DESCRIPTION": "Featuring a 1.6GHz quad-core Intel processor, 12GB of RAM, and a 1TB hard drive, this 17.3-inch laptop has the power you need to get your everyday computing tasks done",
     "BRAND": "HP"
+  },
+  {
+    "Id": "0013",
+    "PRODUCTNAME": "HP Envy 17.3-inch",
+    "GRAPHICNAME": "hpEnvy.jpg",
+    "COSTPRICE": "1499.99",
+    "MSRP": "1480",
+    "QtyOnHand": "50",
+    "QtyOnBackOrder": "1",
+    "DESCRIPTION": "This 17.3-inch machine boasts a 1.8GHz Intel quad-core processor, 12GB of RAM, a 1TB hard drive, and a 128 GB solid state drive to give you the power you need to get everything done",
+    "BRAND": "HP"
+  },
+  {
+    "Id": "0014",
+    "PRODUCTNAME": "HP OMEN 15.6-inch Gaming Laptop",
+    "GRAPHICNAME": "hpOmen.jpg",
+    "COSTPRICE": "1499.99",
+    "MSRP": "1480",
+    "QtyOnHand": "36",
+    "QtyOnBackOrder": "2",
+    "DESCRIPTION": "Powered by a 2.2GHz Intel Core i7 processor, 12GB of RAM, and an NVIDIA GeForce GTX 1050 Ti graphics card, this laptop lets you take high-level gaming on the go",
+    "BRAND": "HP"
+  },
+  {
+    "Id": "0015",
+    "PRODUCTNAME": "HP Stream 14-inch",
+    "GRAPHICNAME": "hpStream.jpg",
+    "COSTPRICE": "329.99",
+    "MSRP": "1480",
+    "QtyOnHand": "47",
+    "QtyOnBackOrder": "10",
+    "DESCRIPTION": "Featuring a 1.1GHz dual-core processor, 4GB of RAM, and a 32GB eMMC storage capacity, this 14-inch laptop has the power you need to do all your computing tasks",
+    "BRAND": "HP"
   }
+  
 ]
