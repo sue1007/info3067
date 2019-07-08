@@ -1,6 +1,5 @@
 [
   {
-    "Id": "0001",
     "PRODUCTNAME": "MacBook Pro 13-inch",
     "GRAPHICNAME": "macpro13.jpg",
     "COSTPRICE": "1729.00",
@@ -11,7 +10,6 @@
     "BRAND": "APPLE"
   },
   {
-    "Id": "0002",
     "PRODUCTNAME": "MacBook Pro 15-inch",
     "GRAPHICNAME": "macpro15.jpg",
     "COSTPRICE": "3199.00",
@@ -22,7 +20,6 @@
     "BRAND": "APPLE"
   },
   {    
-    "Id": "0003",
     "PRODUCTNAME": "MacBook Air 13-inch",
     "GRAPHICNAME": "macair13.jpg",
     "COSTPRICE": "1499.00",
@@ -33,7 +30,6 @@
     "BRAND": "APPLE"
   },
   {    
-    "Id": "0004",
     "PRODUCTNAME": "iMac 21.5-inch",
     "GRAPHICNAME": "imac21.jpg",
     "COSTPRICE": "1399.00",
@@ -44,7 +40,6 @@
     "BRAND": "APPLE"
   },
   {    
-    "Id": "0005",
     "PRODUCTNAME": "iMac 27-inch",
     "GRAPHICNAME": "imac27.jpg",
     "COSTPRICE": "2399.00",
@@ -55,7 +50,6 @@
     "BRAND": "APPLE"
   },
   {    
-    "Id": "0006",
     "PRODUCTNAME": "ASUS ZenBook 14-inch",
     "GRAPHICNAME": "asusZen14.jpg",
     "COSTPRICE": "999.00",
@@ -66,7 +60,6 @@
     "BRAND": "ASUS"
   },
   {    
-    "Id": "0007",
     "PRODUCTNAME": "ASUS VivoBook 15.6-inch",
     "GRAPHICNAME": "asusVivo.jpg",
     "COSTPRICE": "650.00",
@@ -77,7 +70,6 @@
     "BRAND": "ASUS"
   },
   {    
-    "Id": "0008",
     "PRODUCTNAME": "ASUS Chromebook Flip 14-inch",
     "GRAPHICNAME": "asusChrome.jpg",
     "COSTPRICE": "699.00",
@@ -88,7 +80,6 @@
     "BRAND": "ASUS"
   },
   {    
-    "Id": "0009",
     "PRODUCTNAME": "ASUS TUF 15.6-inch",
     "GRAPHICNAME": "asusTUF.jpg",
     "COSTPRICE": "899.00",
@@ -99,7 +90,6 @@
     "BRAND": "ASUS"
   },
   {    
-    "Id": "0010",
     "PRODUCTNAME": "ASUS C202SA 11.6-inch",
     "GRAPHICNAME": "asusChrome.jpg",
     "COSTPRICE": "260.00",
@@ -110,7 +100,6 @@
     "BRAND": "ASUS"
   },
   {    
-    "Id": "0011",
     "PRODUCTNAME": "HP 15.6-inch Touchscreen",
     "GRAPHICNAME": "hp15.jpg",
     "COSTPRICE": "799.00",
@@ -121,7 +110,6 @@
     "BRAND": "HP"
   },
   {    
-    "Id": "0012",
     "PRODUCTNAME": "HP 17.3-inch",
     "GRAPHICNAME": "hp17.jpg",
     "COSTPRICE": "900.00",
@@ -132,7 +120,6 @@
     "BRAND": "HP"
   },
   {
-    "Id": "0013",
     "PRODUCTNAME": "HP Envy 17.3-inch",
     "GRAPHICNAME": "hpEnvy.jpg",
     "COSTPRICE": "1499.99",
@@ -143,7 +130,6 @@
     "BRAND": "HP"
   },
   {
-    "Id": "0014",
     "PRODUCTNAME": "HP OMEN 15.6-inch Gaming Laptop",
     "GRAPHICNAME": "hpOmen.jpg",
     "COSTPRICE": "1499.99",
@@ -154,7 +140,6 @@
     "BRAND": "HP"
   },
   {
-    "Id": "0015",
     "PRODUCTNAME": "HP Stream 14-inch",
     "GRAPHICNAME": "hpStream.jpg",
     "COSTPRICE": "329.99",
