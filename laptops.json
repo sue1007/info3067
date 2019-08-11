@@ -4,8 +4,8 @@
     "PRODUCTNAME": "MacBook Pro 13-inch",
     "GRAPHICNAME": "macpro13.jpg",
     "COSTPRICE": "1699.00",
-    "MSRP": "509.99",
-    "QtyOnHand": "1",
+    "MSRP": "109.99",
+    "QtyOnHand": "3",
     "QtyOnBackOrder": "0",
     "DESCRIPTION": "2.3GHz Dual-Core Processor with Turbo Boost up to 3.6GHz 128 GB Storage)",
     "BRAND": "APPLE"
@@ -15,8 +15,8 @@
     "PRODUCTNAME": "MacBook Pro 15-inch",
     "GRAPHICNAME": "macpro15.jpg",
     "COSTPRICE": "2999.00",
-    "MSRP": "599.99",
-    "QtyOnHand": "1",
+    "MSRP": "99.99",
+    "QtyOnHand": "10",
     "QtyOnBackOrder": "0",
     "DESCRIPTION": "Touch Bar and Touch ID 2.6GHz 6-Core Processor with Turbo Boost up to 4.5GHz 256 GB Storage",
     "BRAND": "APPLE"
